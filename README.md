@@ -1,3 +1,3 @@
 # Personal and Professional Github Account
 
-- [@santimendoza](https://github.com/santimendoza/santimendoza)
+- [@santimendoza](https://github.com/santimendoza)
